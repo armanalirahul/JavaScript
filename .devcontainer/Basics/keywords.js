@@ -5,7 +5,7 @@ accountCity = "Ghaziabad" //we can use without keywords but not prefer
 let accountState; //semicolon is optional
 
 //accountId = 2 not allowed
-
+ 
 //we can change value 
 
 accountEmail = "rahul@gmail.com"

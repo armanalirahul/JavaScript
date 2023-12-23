@@ -5,7 +5,7 @@ console.log(typeof(score))
 let scoreInNumber = Number(score)
 console.log(typeof(scoreInNumber))
 
-//2
+//2 
 let value = "33abc"
 let valueNum = Number(value)
 console.log(typeof(valueNum));

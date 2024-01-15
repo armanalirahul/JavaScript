@@ -29,7 +29,7 @@ JsUser.email = "armanali@microsoft.com"
 
 JsUser.greeting = function(){
     console.log("Hello Arman Ali")
-    console.log(`Hello Arman Ali, ${this.name}`)
+    console.log(`Hello Arman Ali, ${this.name}`) //for access property
 }
 
 console.log(JsUser.greeting())

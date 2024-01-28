@@ -10,3 +10,4 @@ Objects
 objects_part2
 objects_part3
 functions
+scope
